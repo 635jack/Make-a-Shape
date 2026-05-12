@@ -136,3 +136,7 @@ dmypy.json
 *.DS_Store
 Makefile
 local_setup_hook.sh
+
+# token HF uniquement machine locale (voir hf_secret_local.example.py)
+examples/hf_secret_local.py
+hf_secret_local.py
